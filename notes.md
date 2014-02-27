@@ -1,6 +1,8 @@
 # NICAR 2014
 *Baltimore, Maryland*
 
+These are the personal notes of [Lazaro Gamio](https://twitter.com/LazaroGamio). There is a very nice collection of links for NICAR 2014 resources on Chrys Wu's [blog](http://blog.chryswu.com/2014/02/21/nicar14-slides-tutorials-links-tools/).
+
 ## Day 1
 
 ### Rifling through the mapping toolbox
@@ -35,9 +37,24 @@
 ### NewsCamp::Intro to D3
 *Feb. 27 1000*
 
-* bull
-* bull 
-* bull 
+* 'The grammar of graphics' <- Inspired D3
+* Edward Tufte *drops mic*
+* Chomsky and generative grammar
+* expressivity vs efficiency
+* Graphics are built from common elements
+* Graphics are data-drive documents
+* [Miso project](http://misoproject.com/)
+* [OpenVis conference](http://openvisconf.com/)
+* D3 is not good at: being a chart library, backward compatibility, rendering things for you, abstracting basic graphic primitives.
+* D3 is good at: mapping data to documents, general purpose viz library, handling data transformation, basic math and layout transformation.
+* D3 is a lot like jQuery
+* Tons of examples here:
+* Building blocks: Data, transforms, scales, guides, marks
+
+##### Lyra project
+
+* [Lyra project](http://idl.cs.washington.edu/projects/lyra/)
+* A GUI for D3?
 
 ### Free tools for data analysis
 *Feb. 27 1400*
