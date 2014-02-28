@@ -48,31 +48,10 @@ These are the personal notes of [Lazaro Gamio](https://twitter.com/LazaroGamio).
 * D3 is not good at: being a chart library, backward compatibility, rendering things for you, abstracting basic graphic primitives.
 * D3 is good at: mapping data to documents, general purpose viz library, handling data transformation, basic math and layout transformation.
 * D3 is a lot like jQuery
-* Tons of examples here:
+* Tons of examples here: Link coming soon
 * Building blocks: Data, transforms, scales, guides, marks
 
 ##### Lyra project
 
 * [Lyra project](http://idl.cs.washington.edu/projects/lyra/)
 * A GUI for D3?
-
-### Free tools for data analysis
-*Feb. 27 1400*
-
-* bull
-* bull 
-* bull
-
-### When data don't exist
-*Feb. 27 1500*
-
-* bull
-* bull 
-* bull
-
-### Tools for cracking PDFs
-*Feb. 27 1600*
-
-* bull
-* bull 
-* bull
